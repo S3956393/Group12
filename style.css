@@ -15,6 +15,11 @@ html, body {background: #000000; font-family: 'Lato', helvetica, arial, sans-ser
 
 .clear {clear: both;}
 
+div {
+	text-align: justify;
+	text-justify; inter-word;
+}
+
 p {
 	font-size: 1em;
 	line-height: 1.4em;
@@ -392,7 +397,4 @@ a:active {
 	animation-delay: 0, 2.5s;
 }
 
-div {
-	text-align: justify;
-	text-justify; inter-word;
-}
+
