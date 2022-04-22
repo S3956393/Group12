@@ -391,3 +391,8 @@ a:active {
 	-moz-animation-delay: 0, 2.5s;
 	animation-delay: 0, 2.5s;
 }
+
+div {
+	text-align: justify;
+	text-justify; inter-word;
+}
